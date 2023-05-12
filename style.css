@@ -4,16 +4,16 @@
     border: none;
 }
 
-.travelmainDiv {
+.travel_mainDiv {
     border: 1px solid lightgrey;
 }
 
-.travelmainDiv img {
+.travel_mainDiv img {
     width: 100%;
 }
 
-.travelmainDiv h5,
-.travelmainDiv p {
+.travel_mainDiv h5,
+.travel_mainDiv p {
     margin: 20px;
 }
 
